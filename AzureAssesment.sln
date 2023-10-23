@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureAssesment", "AzureAssesment\AzureAssesment.csproj", "{7936C82F-A5E3-48CA-A2D3-117C626FC00B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{DE7744F7-3FA7-4041-B4B1-B18CF2C123EC}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{FBEF0CF7-AF77-4524-A4C9-6C32D4EF8E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7936C82F-A5E3-48CA-A2D3-117C626FC00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7936C82F-A5E3-48CA-A2D3-117C626FC00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7936C82F-A5E3-48CA-A2D3-117C626FC00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7936C82F-A5E3-48CA-A2D3-117C626FC00B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7744F7-3FA7-4041-B4B1-B18CF2C123EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7744F7-3FA7-4041-B4B1-B18CF2C123EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7744F7-3FA7-4041-B4B1-B18CF2C123EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7744F7-3FA7-4041-B4B1-B18CF2C123EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBEF0CF7-AF77-4524-A4C9-6C32D4EF8E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBEF0CF7-AF77-4524-A4C9-6C32D4EF8E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBEF0CF7-AF77-4524-A4C9-6C32D4EF8E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBEF0CF7-AF77-4524-A4C9-6C32D4EF8E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DFDACAE-C5D6-4A94-948C-A1697385EC8E}
+	EndGlobalSection
+EndGlobal
